@@ -1,0 +1,2 @@
+The code lights up leds connected directly in sycounce right
+after each other
